@@ -3,3 +3,4 @@ node_modules/
 security-rules.json
 now.json
 .npmrc
+package-lock.json
