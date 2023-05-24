@@ -6,7 +6,6 @@ Fish2000 is an app that allows users to control the menu of a seafood market.
 
 - [Project Prompt](#project-prompt)
 - [Technologies](#technologies)
-- [View the App](#view-the-app)
 
 ## Project Prompt
 
@@ -15,7 +14,3 @@ In this project, we have build an application for a seafood market where price a
 ## Technologies
 
 - React JS
-
-## View the App
-
--On [Netlify]()
